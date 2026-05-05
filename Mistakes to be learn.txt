@@ -1,0 +1,15 @@
+Mistakes to be learn:
+Nested List
+Try to code step by step
+like 
+<ul>
+	<li>A</li>
+		<ol>
+		<li>C<li/>
+		</ol>
+	<li>B</li>
+</ul>
+First type Outer fully like a and b and then go to inner c don't go like A and then inner C and Type B
+--------------------------------------------------------------------------------------------------------------
+
+
