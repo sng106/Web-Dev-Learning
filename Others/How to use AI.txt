@@ -1,0 +1,75 @@
+Think carefully about what exactly you want to build and be as specific as possible with your prompts.
+Provide full technical details and documentations.
+Break large coding tasks into much smaller manageable pieces.
+Explicitly tell the AI what you DO NOT want.
+Make the AI remember guidelines using formatted markdown files.
+Use Model Context Protocol (MCP) tools to extend AI coding agent capabilities.
+Provide ways for the AI to verify work.
+Use version control!
+Isolate AI into dedicated environments, especially when using multiple coding agents.
+--------------------------------------------------------------------------------
+
+Maximizing Your Resources with AI
+----------------------------------
+Use NotebookLM for "Priming": Upload your lectures, text, and readings into a tool like NotebookLM
+
+Ask it to summarize the information and generate guiding questions so you understand what you need to learn and how different concepts fit together 
+before you even start
+
+Ask for Analogies and Examples: 
+------------------------------
+When trying to grasp a complex concept like object-oriented programming, ask an AI model to explain it to you using analogies and examples
+
+This helps solidify abstract ideas in your mind
+
+Have AI Explain Confusing Code: 
+------------------------------
+If you do not understand a snippet of code or logic, copy and paste it into an AI model (she recommends Claude Sonnet, or free options like Qwen, Kimi, and DeepSeek) 
+for a breakdown
+
+You can even use an AI agent to explain the structure of other people's code line-by-line
+
+Accelerating Learning Through Projects
+---------------------------------------
+Build Continuously: Watching lectures isn't enough; hands-on projects are the absolute best way to learn
+
+Whenever you learn a new concept—like testing or APIs—immediately build a project or write tests that apply that specific skill
+
+Practice with AI Agents: Get hands-on experience by directing an AI coding agent to build projects with specific tech stacks 
+(e.g., asking it to build software with a Django backend, Next.js frontend, and SQLite database)
+
+Modify Existing Projects: Take projects built by other people, adapt them, add new features, and change the code to see how your tweaks impact the final result
+
+Request Multiple Implementation Ideas: Expand your coding knowledge by asking AI to suggest multiple different ways to implement the exact same feature
+
+Use AI to Read Documentation: Instead of manually reading through dense documentation, use AI to explain and summarize it for you so you can quickly incorporate 
+new tools into your projects
+------------------------------------------------
+Before asking AI
+----------------
+* We Need to guess the answer as much as we can and then ask AI nad compare your answer 
+* Ask Why it works in simple code
+
+Debug with AI when it gives code
+--------------------------------
+* Run Line by Line
+* Break it on Purpose
+* Ask what happened 
+
+When you complete teh code, ask AI to review your code
+------------------------------------------------------
+* Ask AI to explain, ask ideas to improve and feedback
+* Upload your course video/link and advice AI to ask you questions
+
+Error with AI
+-------------
+* When you get any error ask AI to check what is ther error not solution
+* If you got soultion from AI, understand and check why/where you go wrong
+
+
+
+
+
+
+
+

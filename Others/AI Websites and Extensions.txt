@@ -1,0 +1,160 @@
+You are expert in graphic designer. I want you to be my mentor
+
+Create a Schedule for Graphic Designing
+
+Create a Schedule for Graphic Designing I want to learn Graphic Designing in 2 months 
+Create a Schedule for Graphic Designing with 2 hours of study time per day. I want to learn Graphic Designing in 2 Months 
+
+You Suggest various learning resources like youtube tutorials, udemy courses, community, projects, practical exercises etc with link for graphic designing.
+
+You Give me some beginner level graphic designing projects and also provide me some resources with link. so I could work on to strengthen my graphic designing skills.
+
+To create a proper prompt:
+Just type what you need in detail even grammer mistake, that's ok just type your prompt detail like scene
+
+Create a prompt for above scene in Chatgpt to get proper prompt
+
+Know about:
+Bardeen
+Deep site provide code for the prompt you give like login page etc
+Lovable, claude
+
+https://harvest-english-1be.notion.site/AI-POWERED-CODER-TOP-5-GAME-CHANGING-AI-TOOLS-ULTIMATE-BEGINNER-GUIDE-23b474fce16680b79512f507f9aeeaa1
+
+https://harvest-english-1be.notion.site/VIBE-CODING-STARTER-PACK-2025-24a474fce1668016ba05cb8d440bd5d6
+
+https://harvest-english-1be.notion.site/FRONTEND-BACKEND-STARTER-PACK-2025-From-Coolie-Cinema-to-Full-Stack-Superstar-24e474fce16680e9b4a9ffedc1a9ff29 	
+
+https://docs.google.com/document/d/17R5z_IY8jTe9Wm6O6vGHnW6tkE5zQ9QHQNlJy5kr60E/edit?usp=drivesdk
+
+https://harvest-english-1be.notion.site/APTITUDE-MASTERY-STARTER-PACK-2025-Interview-Cracker-s-Complete-Playbook-258474fce16680de8849c9dd24407ac9
+
+https://medium.com/@codejavid1/free-resources-every-web-developer-must-try-f799949cccfe?fbclid=PAT01DUAM9EQhleHRuA2FlbQIxMAABpy2nFPuo6R2TNSzNmqlMrH0dWWyARK_zItcUm2j4qNLuomxOpUsVV_FoNEBS_aem_cnck2z__jWwsaTbNWsziNA
+
+
+VS code ext
+==============
+minlify - understand code and generate documents for code as well as comments
+GitHub copiolot
+GitHubCopilot - 
+Kite Code completion plugin
+
+Others
+========
+Ideogram.Al prompt to image
+Pika.art prompt to video
+UIZard.lo screenshot editor and UI design provider as template
+remove.Bg remove background
+Sora.Al prompt to video
+Whisper and audiopen - voice to text ai
+Whisper will make your audio into text it won't check for grammer and repetaional words but audio pen will do it organised and grammatical
+D-ID - Generate Al presenter for any video 
+Voice.ai - Change your voice using Al tool Video BG Remover - Change video Background 
+Adobe Podcast - Remove All the noise in Audio 
+Cleanup.pictures - Remove unwanted object from photos
+Pictory.ai - Convert your text into high quality videos
+LetsEnhance Al - Enhance the less quality image into high
+Colormind.io Al (free) - used for beginner designers to know more colour and to find colour palette used in a image
+Fontjoy (free) used for beginner designers to get more font combinations, above slider is the line of match how accurate the fonts should match
+Adobe Firefly Al - Image generates using our prompts
+Auto Draw Al (free) -converts our rough draw into a proper drawing or image or icon
+Recraft AI - All ai tools and special is mock up tool to enhance your design or logo with multiple images like shows up in t shirt coffe cup etc
+Visily AI - screenshot editor, UI design diagram, etc 
+Suno AI - create songs
+Audiobox-text to speech, sound efffects
+akool - swap faces inimage and video
+goenhance.ai - convert any vide into animated video
+openai sora - image or text to life
+Gravity write, copy ai
+Heygen - create a full video uploading yoursmall vide to clone
+fathom.ai - while attending meeting it also attend the meeting and will produce the summerize of meeting
+Elevenlabs - text to voice
+Smalltalk.ai for english
+descript.ai, jammable.ai, voicify - Convert text to voice
+trickle.so - convert screenshot into data
+magiceraser - unwanted things to remove in image
+Takeitdown - Check your image in internet to remove it
+poised - upload your video of speaking and it will gove feeback on it 
+ideogram, Leonardo - Image generation using prompts
+videoai - to create shorts by uploading full length video or video link and in free 75 mins (paid)
+Gemini
+Chat gpt 
+Claude
+Deepseek
+Perplexity with chrome extension we can summarize a website and we can ask questions on it 
+adobe.firefly - generative fill
+Syenthesia - create video
+Magical AI Writer -  AI extension used for mails 
+replicate.com - Photo enhancer
+Futurepedia.co - all AI tools in one place
+SlideAI - PPT
+PPT or google docs - Gamma.AI *
+Word tune - Summarize our notes
+Jobscan, Kick resume
+lexica.art - text to image
+popai.pro, Humata.AI- Upload a book or pdf and ask questions\
+summarist.ai - check abut a book
+lala.ai, moises.AI - separate vocal and instrument
+supermeme.ai - meme template creator
+Promptperfect - to get a proper prompt to use I Chat gpt
+Image colouriser - black and white photo into colour
+Clipdrop.co Make a portrait into landscape and many photo edit options
+Scribblediffusion - drawing sketch into real image
+writes Anything Copy.Al 
+ Creat PPTs Tome.app
+Creat 3D GIFs Leiapix Con.. 
+Creat Videos Kaiber
+Notetaking FireFiles 
+Edit Videos Runway 
+Create Avatars Anime.Al
+Writes anything - Writesonic 
+Generates Art - Midjourney 
+Generates Music - Soundraw.io 
+Generates TikToks -Fliki 
+Generates Avatars -Starrytars 
+Edit Pictures - Remini 
+Edit Videos - Pictory 
+Summarize Notes-Wordtune
+onlie coourization, Upscayl - upscale your iamge
+
+application:
+Vozard - voice change in meetings, live 
+HitPaw - Video enhancer, colour enhancer denoiser and black and white to colour, voice changer, Hitpaw video background change and Image editor
+
+graphic designer
+==============
+Napkin.AI - designing or graphics create using prompt, used for a UI models, presentation docs like diagrams, etc
+artflow.ai - convert image into AI character used to thumbnails, story designs
+flair - to create background image after removed bg
+Mockey.ai - Use for graphic designer
+Marketing blocks.AI
+Scribe - fastest way to make visual step by step guide
+Logoai.com, Looka -Logo maker
+Lumen5 - convert your blog into video
+
+Fakeyou.com - convert your voice from text into famous voice
+Craiyon, PlaygroundAI.com - Convert your photo into awesome by prompts
+Cloneyourself.in - Upload a photo and make a prompt that you need the photo to speak
+
+
+Code and learn:
+==============
+Google AI Studio
+Photo, Video, Music, Photo enhancer, Stream(AI Assistant by screenshare, taking with AI to clear doubts on topic)
+
+Notebook LM
+To refer a document, to know about a Audio, website, document, book, video or YouTube video, Using this you can get by getting as summary/notes ,listening as audio or by asking questions based on our upload. Even we can get the data via Mindmap 
+
+https://colab.research.google.com/
+
+Gemini Deep Research
+
+Deployement: firebase, lovable and replit
+trae
+v0.dev - get the react code as per your comment
+replit
+8. blackbox.ai coding assistant 
+Mixo.io, Durable.co, Bookmark.com, Zyro.com(website template), Framer.ai - Website develop with a prompt
+Codium - Coding assistance
+deepcode - Find bugs and vurnarabilities in code (paid)
+Project IDX - google VS code

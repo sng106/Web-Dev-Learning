@@ -1,0 +1,46 @@
+AI SKILLS
+
+'Prompt engineering' is the practice of designing and refining input instructions(prompts) to guide generative Al models to produce accurate, relevant, 
+and desired outputs. It involves clear instructions, context, examples (few-shot/zero-shot), roles (personas), and iterative testing to unlock Al's potential 
+for complex tasks
+
+'Al agents' are advanced Al systems that can understand goals, plan steps, use tools and memory, and act autonomously to complete complex tasks -unlike 
+traditional Al that only responds to prompts.
+
+Tools: 
+Langchain
+CrewAI
+AgentKit from OpenAI
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+'Workflow automation' uses software to automatically run repetitive business tasks using predefined rules. It handles things like approvals, data entry, 
+and notifications, reducing manual work, minimizing errors, and helping teams focus on more important tasks across departments like HR, sales, and IT.
+
+Tools:
+N8n, Make.com, Zapier
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+An 'AI coding assistant' is a tool that helps developers write and improve code by giving real-time suggestions, auto completions, bug detection, and code generation. 
+It works like a smart pair programmer, using large language models to boost coding speed, reduce errors, and improve code quality
+
+Tools:
+Cursor, Claude, Windsurf
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+'Vibe coding' is an Al-assisted development approach where developers use natural language to guide Al in generating and fixing code. It speeds up prototyping 
+and iteration by focusing on high-level direction instead of manual typing, but still requires strong fundamentals to build reliable, scalable software
+
+Tools:
+Lovable, Bolt.new, Replit, Cursor, Vercel v0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+'Retrieval-Augmented Generation (RAG)': An Al approach where a language model retrieves relevant external data before generating a response, improving accuracy 
+grounding answers in real information, and reducing hallucinations.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+'AEO (Answer Engine Optimization)' focuses on creating clear, direct answers so Al tools and search engines can show your content as the final answer.
+Unlike traditional SEO that aims for clicks, AEO aims for visibility in snippets, voice search, and Al responses.
+
+Tools:
+Websonic, SurferSEO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+'Al content generation' uses Al models to create text, images, video, or audio quickly by learning patterns from large datasets. It helps scale content creation, 
+but human review is needed to ensure accuracy, originality, and quality.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+'LLM observability' means tracking how a large language model behaves in production what goes in, what comes out, and how it performs. It helps teams monitor things 
+like latency, token usage, errors, prompt quality, and hallucinations so they can debug issues, control costs, and keep Al systems reliable and accurate.
